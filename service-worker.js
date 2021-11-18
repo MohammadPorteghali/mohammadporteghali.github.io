@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.5210fbffadf31ed0ce3dd08fef4f7ca0.js"
+  "precache-manifest.2610f68775fc86ae78418cf8cf213905.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mopodev"});
